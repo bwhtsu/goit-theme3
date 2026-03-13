@@ -1,0 +1,19 @@
+section {
+    border: 5px solid red;
+    margin-bottom: 400px;
+    margin-top: 400px;
+    background-color: gray;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
+img {
+    width: 100%;
+    
+    display: flex;
+    transition-property: transform;
+    transition-duration: 250ms;
+}
